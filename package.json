@@ -24,7 +24,7 @@
     "configstore": "^5.0.0",
     "figlet": "^1.2.4",
     "inquirer": "^7.0.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "minimist": "^1.2.0",
     "shelljs": "^0.8.4",
     "simple-git": "^1.129.0",
